@@ -1,4 +1,4 @@
-# TokoVoip
+# TokoVoip EDITED VERSION NUMBER TO 2.0.0 For Uprising Compatibility
 TokoVoip is a TeamSpeak plugin used along a FiveM script to add a custom proximity chat and radio system to [FiveM](https://fivem.net/)
 
 It includes radio effects thanks to the integration of the [RadioFX](https://www.myteamspeak.com/addons/f2e04859-d0db-489b-a781-19c2fab29def) plugin
