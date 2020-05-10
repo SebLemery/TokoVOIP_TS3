@@ -17,7 +17,7 @@
 local targetPed;
 local useLocalPed = true;
 local isRunning = false;
-local scriptVersion = "1.3.5";
+local scriptVersion = "2.0.0";
 local animStates = {}
 local displayingPluginScreen = false;
 local HeadBone = 0x796e;
